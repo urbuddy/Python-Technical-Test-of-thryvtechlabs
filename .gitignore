@@ -1,2 +1,5 @@
 todo_app/tasks/migrations/*
 .venv/
+.idea/
+tasks/__pycache__/
+todo_app/__pycache__/
